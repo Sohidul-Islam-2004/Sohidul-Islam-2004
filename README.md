@@ -26,7 +26,7 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 | **LeetCode** | Top 15.34% | 1675 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sohidul_Islam/)
 
 **📊 Total Problems Solved: 1700+**  
-**🎓 Current CGPA: 3.95+**
+
 
 </div>
 
