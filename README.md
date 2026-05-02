@@ -21,9 +21,9 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 | Platform | Position | Rating (Max) | Profile | 
 |----------|--------|--------|-----------
 | **Codeforces** | Pupil  | 1246  | [![Codeforces](https://img.shields.io/badge/Codeforces-1A1A1A?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/HardLimit) |
-| **CodeChef** | 2★ | 1498  |
-| **AtCoder** | Brown | 671  |
-| **LeetCode** | Top 15.34% | 1675 |
+| **CodeChef** | 2★ | 1498  | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sohidul_islam)
+| **AtCoder** | Brown | 671  | [![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/Sohidul)
+| **LeetCode** | Top 15.34% | 1675 | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Sohidul_Islam/)
 
 **📊 Total Problems Solved: 1700+**  
 **🎓 Current CGPA: 3.95+**
