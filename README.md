@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sohidul
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2F81F7&center=true&width=435&lines=Competitive+Programmer;ICPC+Regionalist;Java+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2F81F7&center=true&width=435&lines=Competitive+Programmer;ICPC+Regionalist;Future+Software+Engineer" alt="Typing SVG" />
 </div>
 
 ---
