@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm [Sohidul]
 
-<!--
-**Sohidul-Islam-2004/Sohidul-Islam-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=2F81F7&center=true&width=435&lines=Java+Developer;Database+Enthusiast;Problem+Solver;OOP+Practitioner" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🎓 **Computer Science Student** passionate about building real-world applications
+
+💻 Focused on **Java Development**, **Database Design**, and **Object-Oriented Programming**
+
+🌱 Currently exploring **Spring Boot** and **Microservices**
+
+🎯 Goal: Build scalable, maintainable software that solves real problems
+
