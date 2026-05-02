@@ -20,7 +20,7 @@ My long-term goal is to become a skilled software engineer and contribute to imp
   
 | Platform | Position | Rating (Max) |
 |----------|--------|--------|
-| **Codeforces** | Pupil | 1246  |
+| **Codeforces** | Pupil [![Codeforces](https://img.shields.io/badge/Codeforces-1A1A1A?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/HardLimit) | 1246  |
 | **CodeChef** | 2★ | 1498  |
 | **AtCoder** | Brown | 671  |
 | **LeetCode** | Top 15.34% | 1675 |
