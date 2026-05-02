@@ -33,16 +33,20 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 ---
 
 ## 🥇 Achievements
-####  Academic Excellence
-### Scholarship's
 
+###  Academic Excellence
+
+
+#### Scholarship's
 | Name | Value | Semester |
 |:-----|:-----:|:--------:|
 |  Merit Scholarship & Dean's List | 100% | Fall 2025 - Fall 2026 |
 
-#### Programming 
-###  ICPC Achievements
 
+
+### Programming 
+
+###  ICPC Achievements
 | Contest | Team | Rank |
 |---------|------|------|
 | **ICPC Dhaka Regional 2025** | EWU_Greedy_Gang | **149th / 313 teams** |
