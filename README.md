@@ -34,11 +34,11 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 
 ## 🥇 Achievements
 
-###  Academic Excellence
-| Name | Value | Semester | 
-|  Merit Scholarship & Dean's List | Full Free |  Fall 2025 |
-|----------------------|----------------|---------|
+### 📚 Academic Excellence
 
+| Name | Value | Semester |
+|:-----|:-----:|:--------:|
+|  Merit Scholarship & Dean's List | **Full Free** | Fall 2025 |
 
 
 ###  ICPC Achievements
