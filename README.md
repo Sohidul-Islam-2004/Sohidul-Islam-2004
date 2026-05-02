@@ -18,12 +18,12 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 
 <div align="center">
   
-| Platform | Handle | Rating (Max) |
+| Platform | Position | Rating (Max) |
 |----------|--------|--------|
 | **Codeforces** | Pupil | 1246  |
 | **CodeChef** | 2★ | 1498  |
 | **AtCoder** | Brown | 671  |
-| **LeetCode** | - | 1675 |
+| **LeetCode** | Top 15.34% | 1675 |
 
 **📊 Total Problems Solved: 1700+**  
 **🎓 Current CGPA: 3.95+**
