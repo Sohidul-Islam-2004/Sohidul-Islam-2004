@@ -34,25 +34,25 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 
 ## 🥇 Achievements
 
-### 🏆 ICPC Achievements
+###  ICPC Achievements
 
-| Contest | Position | Team | Rank |
-|---------|----------|------|------|
-| **ICPC Dhaka Regional 2025** | Participant | EWU_Greedy_Gang | **149th / 313 teams** |
-| **ICPC Dhaka 2025 Online Preliminary** | Qualified | EWU_Greedy_Gang | **217th / 1,842 teams** (🥇 1st from EWU) |
+| Contest | Team | Rank |
+|---------|------|------|
+| **ICPC Dhaka Regional 2025** | EWU_Greedy_Gang | **149th / 313 teams** |
+| **ICPC Dhaka 2025 Online Preliminary** | EWU_Greedy_Gang | **217th / 1,842 teams** ( 1st from EWU) |
 
 > **Team EWU_Greedy_Gang** - Fahim Safwan, Pritilata Dea, and Sohidul  
 
 
 ---
 
-### 🎓 Intra-University Contests
+###  Intra-University Contests
 
 | Contest | Position | Category | Date |
 |---------|----------|----------|------|
-| **EWU Intra University Programming Contest – Spring 2026** | 2nd Runner-Up 🏅 | Senior Category (Solo) | Apr 2026 |
-| **EWU Intra University Programming Contest – Summer 2025** | Champion 🏅 | Freshman Category (Solo) | Aug 2025 |
-| **EWU Intra University Beginner Programming Contest – Fall 2024** | Champion 🏅 | Solo | Dec 2024 |
+| **EWU Intra University Programming Contest – Spring 2026** | 2nd Runner-Up  | Senior Category (Solo) | Apr 2026 |
+| **EWU Intra University Programming Contest – Summer 2025** | Champion  | Freshman Category (Solo) | Aug 2025 |
+| **EWU Intra University Beginner Programming Contest – Fall 2024** | Champion  | Solo | Dec 2024 |
 
 ---
 
