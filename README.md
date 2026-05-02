@@ -41,7 +41,7 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 
 | Name | Value | Semester |
 |:-----|:-----:|:--------:|
-|  Merit Scholarship & Dean's List | 100% | Fall 2025 - Fall 2026 |
+|  Merit Scholarship & Dean List | 100% | Fall 2025 - Fall 2026 |
 
 
 ---
