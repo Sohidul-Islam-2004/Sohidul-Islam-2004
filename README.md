@@ -18,11 +18,11 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 
 <div align="center">
   
-| Platform | Handle | Rating |
+| Platform | Handle | Rating (Max) |
 |----------|--------|--------|
-| **Codeforces** | Pupil | 1246 (Max) |
-| **CodeChef** | 2★ | 1498 (Max) |
-| **AtCoder** | Brown | 671 (Max) |
+| **Codeforces** | Pupil | 1246  |
+| **CodeChef** | 2★ | 1498  |
+| **AtCoder** | Brown | 671  |
 | **LeetCode** | - | 1675 |
 
 **📊 Total Problems Solved: 1700+**  
@@ -41,7 +41,7 @@ My long-term goal is to become a skilled software engineer and contribute to imp
 | **ICPC Dhaka Regional 2025** | Participant | EWU_Greedy_Gang | **149th / 313 teams** |
 | **ICPC Dhaka 2025 Online Preliminary** | Qualified | EWU_Greedy_Gang | **217th / 1,842 teams** (🥇 1st from EWU) |
 
-> 💪 **Team EWU_Greedy_Gang** - Fahim Safwan, Pritilata Dea, and Sohidul  
+> **Team EWU_Greedy_Gang** - Fahim Safwan, Pritilata Dea, and Sohidul  
 
 
 ---
